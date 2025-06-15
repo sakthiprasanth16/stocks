@@ -4,8 +4,8 @@
 An interactive stock analytics dashboard built using Streamlit and Power BI, focusing on Nifty 50 stocks. The project cleans, analyzes, and visualizes stock data to help users understand market trends and performance.
 
 ----Languages: Python
-Database: MySQL
-Visualization Tools: Streamlit, Power BI
+Database: MySQL,
+Visualization Tools: Streamlit, Power BI, 
 Libraries: Pandas, SQLAlchemy, Plotly, Seaborn, Matplotlib, NumPy
 
 ---Project Brief
