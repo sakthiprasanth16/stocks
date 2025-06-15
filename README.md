@@ -8,7 +8,8 @@ Database: MySQL;
 Visualization Tools: Streamlit, Power BI;
 Libraries: Pandas, SQLAlchemy, Plotly, Seaborn, Matplotlib, NumPy
 
----Project Brief
+---Project Brief---
+
 Top 10 Gainers & Losers: Identify the best and worst performing stocks based on yearly return.
 
 Market Summary: View average stock return, volume, and count of gainers vs losers.
