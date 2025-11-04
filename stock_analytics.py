@@ -10,7 +10,7 @@ from sqlalchemy import create_engine
 host = "gateway01.eu-central-1.prod.aws.tidbcloud.com"
 port = 4000
 user = "42aq8sKC2dkkKnC.root"
-password = "E0k2yNcKG1v2koeb"
+password = "YOUR PASSWORD"
 database = "stocks"
 ssl_ca_path = "C:/certs/cacert.pem"
 ssl_args = f"?ssl_ca={ssl_ca_path}"
@@ -242,3 +242,4 @@ def main():
 # Direct run function
 if __name__ == "__main__":
     main()
+
