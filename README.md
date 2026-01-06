@@ -6,6 +6,10 @@ The Stock Performance Dashboard aims to provide a comprehensive visualization an
 ---Stock Performance Dashboard (Nifty 50)
 An interactive stock analytics dashboard built using Streamlit and Power BI, focusing on Nifty 50 stocks. The project cleans, analyzes, and visualizes stock data to help users understand market trends and performance.
 
+---
+Live demo (Hugging Face Space):  
+👉 https://huggingface.co/spaces/prasanthr0416/Household_Power_Usage_Forecast
+
 ----Languages: Python
 Database: MySQL;
 Visualization Tools: Streamlit, Power BI;
