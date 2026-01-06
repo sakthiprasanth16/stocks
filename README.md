@@ -9,6 +9,7 @@ An interactive stock analytics dashboard built using Streamlit and Power BI, foc
 ---
 Live demo (Hugging Face Space):  
 👉 https://huggingface.co/spaces/prasanthr0416/2024_Nifty_50_stocks_performance
+---
 
 ----Languages: Python
 Database: MySQL;
