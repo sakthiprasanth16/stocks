@@ -31,7 +31,7 @@ This project aims to:
 ---
 
 ### 🔹 Tableau Dashboard (Live)
-👉 https://public.tableau.com/authoring/Nifty50_Stock_Dashboard/Nifty50#1
+👉 https://public.tableau.com/app/profile/sakthi.prasanth/viz/Nifty50_Stock_Dashboard/Nifty50
 
 ---
 
