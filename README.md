@@ -126,15 +126,4 @@ This project aims to:
 - Correlation heatmap
 - Sector-wise insights
 
----
-
-## 🧠 Key Learnings & Highlights
-
-- End-to-end pipeline: **Database → Python → BI Tools**
-- Handling **data granularity differences** between Tableau and Power BI
-- Using **LOD expressions** in Tableau for correct KPIs
-- Best-practice **correlation modeling** for BI tools
-- Clean, professional dashboard design
-
----
 
